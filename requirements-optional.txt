@@ -1,5 +1,0 @@
-# 仅在业务规模或隐私要求确实需要时安装：
-# pip install -r requirements-optional.txt
-sentence-transformers>=3.0  # 本地 BGE 嵌入与重排
-paddleocr>=2.7              # 图片本地 OCR
-pymilvus>=2.4               # 外部 Milvus 向量库
